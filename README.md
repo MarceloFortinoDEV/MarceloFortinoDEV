@@ -1,1 +1,1 @@
-- 👋 Olá! Bem-vindo(a) ao meu Github!
+- 👋 Olá! Bem-vindo ao meu Github!
